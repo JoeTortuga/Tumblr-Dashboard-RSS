@@ -1,8 +1,8 @@
 <?php
 
 // Authorization info
-$tumblr_email    = 'josh@joshmock.com';
-$tumblr_password = '(k+[zjj9,5$}"QT';
+$tumblr_email    = 'test@example.com';
+$tumblr_password = 'password';
 
 // Data for new record
 $num_posts = '50';
